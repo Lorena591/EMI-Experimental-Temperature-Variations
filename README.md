@@ -24,8 +24,8 @@ The aluminum beam was placed inside a thermal chamber from the brand Thermotron 
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of 1 V in a frequency range of 1 Hz to 100 kHz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 kS/s was employed.
 
-##### References
-
+#### References
+Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for pzt based structural health monitoring”. IEEE Transaction on Instrumentation and Measurement, Vol. 58, No. 10, pp. 3602–3608
 
 ## Authors
 - Lorena Lopes Dias (UNESP/FEIS)
