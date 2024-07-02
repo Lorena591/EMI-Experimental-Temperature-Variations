@@ -1,3 +1,4 @@
+<p align="justify">
 # Pesquisa-Doutorado-Direto
 
 Pesquisa-Doutorado-Direto contém um conjunto de dados e informações referentes à pesquisas envolvendo Monitoramento da Integridade Estrutural (SHM) via Impedância Eletromecânica (EMI) e Ondas Guiadas (GW). Os estudos foram realizados para uma viga de liga de alumínio 6063-T5 com transdutores piezoelétricos PSI-5H4E da Piezo Systems acoplados à sua superfície. Este benchmark apresenta os métodos experimentais empregados para ambas as técnicas. Os experimentos envolvem a coleta de sinais considerando condições estruturais sem dano, com dano e periocidade sob variações de temperatura. O conjunto de dados é valioso para a validação de algoritmos de SHM em diferentes temperaturas e condições estruturais.
@@ -22,5 +23,5 @@ Douglas Domingues Bueno (UNESP/FEIS)
 
 ## Financiamento 
 
-
+</p>
 
