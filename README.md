@@ -14,7 +14,7 @@ To learn more about the reserach group: https://bit.ly/3RSReVl
 
 To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: https://bit.ly/3W79htv
 
-## Experiments for the collection of EMI signals
+## Experiment to collect EMI signals
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from Piezo Systems attached to its surface, as shown in the digure below.
 
