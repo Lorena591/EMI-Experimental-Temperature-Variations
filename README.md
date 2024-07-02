@@ -23,7 +23,7 @@ The figure below shows a schematic of the experimental setup utilized. It was us
 The aluminum beam was placed inside a thermal chamber from the brand Thermotron S-Series to simulate ambient temperature variations. This beam was positioned on a foam layer to simulated a free-free boundary condition. Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the tables below.
 
 | Code Name | Code | Description  |                                                                 
-| -- | -- | -- | -- |                                                                                                   
+| -- | -- | -- |                                                                                                   
 | &Alpha; | &#913; | Greek capital letter alpha|                                                                   
 | &Beta; | &#914; | Greek capital letter beta |                                                                     
 | &Gamma; | &#915; | Greek capital letter gamma |      
