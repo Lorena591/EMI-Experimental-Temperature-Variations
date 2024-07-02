@@ -36,7 +36,15 @@ Table 1 - Geometric and material properties of the PSI-5H4E piezoelectric transd
 |Distance from the second PZT’s end to the origin| $$x_2$$| $$x_1+L_p = 94 mm$$   |
 
 Table 2 - Geometric and material properties of the 6063-T5 aluminum alloy beam at 24°C.
-$$e^{-\frac{t}{RC}}\Omega$$
+| Property | Symbol | Value |                                                                 
+| -- | -- | -- |           
+|Length | $$L_b$$| 498 mm |
+|Width | $$b_b$$ | 12 mm |
+|Thickness | $$h_b$$ | 3 mm |
+|Young's modulus | $$\bar{E}_b$$ | 69 GPa|
+|Density | $$\bar{\rho}_b$$| 2680 kg/m$$^3$$|
+|Coefficient | $$\alpha$$| 0.0011 |
+|Coefficient | $$\beta$$ | 3.5315$$\times$$10$$^{-8}$$ |
 
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of ±1 V in a frequency range of 1 Hz to 100 kHz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 kS/s was employed.
