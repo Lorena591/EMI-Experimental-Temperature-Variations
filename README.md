@@ -22,11 +22,17 @@ The figure below shows a schematic of the experimental setup utilized. It was us
 
 The aluminum beam was placed inside a thermal chamber from the brand Thermotron S-Series to simulate ambient temperature variations. This beam was positioned on a foam layer to simulated a free-free boundary condition. Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the tables below.
 
-| Code Name | Code | Description  |                                                                 
+| Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
-| &Alpha; | &#913; | Greek capital letter alpha|                                                                   
-| &Beta; | &#914; | Greek capital letter beta |                                                                     
-| &Gamma; | &#915; | Greek capital letter gamma |      
+| Length | 𝐿𝑝 | 13 mm|                     
+|Width |𝑏𝑝 |12 mm|
+|Thickness |ℎ𝑝 |0.2667 mm|
+|Compliance |𝑆𝐸 |11 1.6129×10−11 Pa−1|
+|Density |𝜌𝑝 |7800 kg/m3|
+|Piezoelectric constant |𝑑¯31 |-327.18×10−12 m/V|
+|Dielectric constant |𝜀𝑇|33 |3.24783.3630×10−8 F/m|
+|Distance from the first PZT’s end to the origin| 𝑥1 |81 mm|
+|Distance from the second PZT’s end to the origin| 𝑥2| 𝑥1 + 𝐿𝑝 = 94 mm   |
 
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of ±1 V in a frequency range of 1 Hz to 100 kHz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 kS/s was employed.
