@@ -3,6 +3,7 @@
 
  <div align="justify">Pesquisa-Doutorado-Direto contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) and Guided Waves (GW). The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectric transducers from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for both techniques (EMI and GW). The experiments involve the collection of signals considering structural conditions without damage, with damage and periocity under temperature variations. The data set is valuable for validating SHM algorithms at different temperatures and structural conditions.
 
+
 Computer codes were also developed involving the modeling of EMI and GW techniques for these different structural and environmental conditions.
 
 ## Data Access
