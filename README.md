@@ -12,7 +12,7 @@ Data are available for non-commercial research under the following terms: (i) th
 
 To learn more about the reserach group: https://bit.ly/3RSReVl
 
-To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: https://bit.ly/3VINLtA
+To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: https://bit.ly/3W79htv
 
 ## Experiments for the collection of EMI signals
 
