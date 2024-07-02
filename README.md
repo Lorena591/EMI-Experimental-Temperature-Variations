@@ -13,9 +13,14 @@ Para baixar o conjunto de dados do benchmark, incluindo os sinais experimentais 
 ## Experimentos para a coleta de sinais de EMI
 
 
-## Acesso aos Dados
-\begin{itemize}
-\item Lorena Lopes Dias (UNESP/FEIS)
-\end{itemize}
+## Autores
+Lorena Lopes Dias (UNESP/FEIS)
+Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
+Douglas Domingues Bueno (UNESP/FEIS)
+
+## Como citar
+
+## Financiamento 
+
 
 
