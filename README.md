@@ -16,8 +16,8 @@ Para baixar o conjunto de dados do benchmark, incluindo os sinais experimentais 
 
 ## Autores
 - Lorena Lopes Dias (UNESP/FEIS)
-Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
-Douglas Domingues Bueno (UNESP/FEIS)
+- Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
+- Douglas Domingues Bueno (UNESP/FEIS)
 
 ## Como citar
 
