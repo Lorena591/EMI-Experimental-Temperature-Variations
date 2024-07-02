@@ -9,7 +9,7 @@ Computer codes were also developed involving the modeling of EMI and GW techniqu
 
 Data are available for non-commercial research under the following terms: (i) the GMSInt Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSInt members and SHM Lab UNESP/Ilha Solteira; (iii) it is necessary to cite this benchmark.
 
-To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: https://bit.ly/3VHBV4F
+To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: ...
 
 ## Experiments for the collection of EMI signals
 
@@ -23,6 +23,8 @@ The aluminum beam was placed inside a thermal chamber from the brand Thermotron 
 
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of 1 V in a frequency range of 1 Hz to 100 kHz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 kS/s was employed.
+
+##### References
 
 
 ## Authors
