@@ -26,10 +26,10 @@ Table 1 - Geometric and material properties of the PSI-5H4E piezoelectric transd
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
 |Length | $$L_p$$ | 13 mm|                     
-|Width |𝑏𝑝 |12 mm|
-|Thickness |ℎ𝑝 |0.2667 mm|
-|Compliance |𝑆𝐸 |11 1.6129×10−11 Pa−1|
-|Density |𝜌𝑝 |7800 kg/m3|
+|Width |$$b_p$$ |12 mm|
+|Thickness |$$h_p$$ |0.2667 mm|
+|Compliance |$${S}_{11}^E$$|11 1.6129×10−11 Pa−1|
+|Density |$$\rho_p$$ |7800 kg/m3|
 |Piezoelectric constant |𝑑¯31 |-327.18×10−12 m/V|
 |Dielectric constant |𝜀𝑇33 |3.24783.3630×10−8 F/m|
 |Distance from the first PZT’s end to the origin| 𝑥1 |81 mm|
