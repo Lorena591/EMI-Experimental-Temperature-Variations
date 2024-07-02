@@ -33,7 +33,7 @@ Table 1 - Geometric and material properties of the PSI-5H4E piezoelectric transd
 |Piezoelectric constant |$$\bar{d}_{31}$$ |-327.18×10−12 m/V|
 |Dielectric constant |$$\bar{\varepsilon}_{33}^T$$ |3.24783.3630×10−8 F/m|
 |Distance from the first PZT’s end to the origin| $$x_1$$ |81 mm|
-|Distance from the second PZT’s end to the origin| $$x_2$$| $$x_1$$ + $$L_p$$ = 94 mm   |
+|Distance from the second PZT’s end to the origin| $$x_2$$| $$x_1+L_p$$ = 94 mm   |
 
 Table 2 - Geometric and material properties of the 6063-T5 aluminum alloy beam at 24°C.
 $$e^{-\frac{t}{RC}}\Omega$$
