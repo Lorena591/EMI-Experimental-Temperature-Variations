@@ -22,6 +22,7 @@ The figure below shows a schematic of the experimental setup utilized. It was us
 
 The aluminum beam was placed inside a thermal chamber from the brand Thermotron S-Series to simulate ambient temperature variations. This beam was positioned on a foam layer to simulated a free-free boundary condition. Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the tables below.
 
+Geometric and material properties of the PSI-5H4E piezoelectric transducer at 24°C.
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
 | Length | 𝐿𝑝 | 13 mm|                     
@@ -30,7 +31,7 @@ The aluminum beam was placed inside a thermal chamber from the brand Thermotron 
 |Compliance |𝑆𝐸 |11 1.6129×10−11 Pa−1|
 |Density |𝜌𝑝 |7800 kg/m3|
 |Piezoelectric constant |𝑑¯31 |-327.18×10−12 m/V|
-|Dielectric constant |𝜀𝑇|33 |3.24783.3630×10−8 F/m|
+|Dielectric constant |𝜀𝑇33 |3.24783.3630×10−8 F/m|
 |Distance from the first PZT’s end to the origin| 𝑥1 |81 mm|
 |Distance from the second PZT’s end to the origin| 𝑥2| 𝑥1 + 𝐿𝑝 = 94 mm   |
 
