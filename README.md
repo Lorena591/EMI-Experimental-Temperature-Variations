@@ -11,6 +11,7 @@ Computer codes were also developed involving the modeling of EMI and GW techniqu
 Data are available for non-commercial research under the following terms: (i) the GMSInt Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSInt members and SHM Lab UNESP/Ilha Solteira; (iii) it is necessary to cite this benchmark.
 
 To download the benchmark dataset, including the experimental signals collected and the developed computational codes, request access to: ...
+| &Omega; | &#937; | Greek capital letter omega | Ω |                                                                         
 
 ## Experiments for the collection of EMI signals
 
