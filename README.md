@@ -1,10 +1,7 @@
 
 # EMI-Experimental-Beam-Temperature-Variations
 
- <div align="justify">Pesquisa-Doutorado-Direto contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) and Guided Waves (GW). The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectric transducers (PTZs) from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for both techniques (EMI and GW). The experiments involve the collection of signals considering structural conditions without damage, with damage and periocity under temperature variations. The data set is valuable for validating SHM algorithms at different temperatures and structural conditions.
-
-
-Computer codes were also developed involving the modeling of EMI and GW techniques for these different structural and environmental conditions.
+ <div align="justify">EMI-Experimental-Beam-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with a PSI-5H4E piezoelectric transducer (PTZ) from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consists of collectioning signals for undamaged structural conditions under temperature variations. The data set is valuable for validating SHM algorithms at different temperatures.
 
 ## Data Access
 
@@ -12,7 +9,7 @@ Data are available for non-commercial research under the following terms: (i) th
 
 To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
 
-The experimental signals measured are stored in foldes contained in the main branch, while the computer codes are present in the Computer-Codes branch.
+The experimental signals measured are stored in foldes contained in the main branch.
 
 ## Experiment to collect EMI signals
 
@@ -59,14 +56,14 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 ## Authors
 - Lorena Lopes Dias (UNESP/FEIS)
-  - E-mail: lorena.dias@unesp.br
+  - e-mail: lorena.dias@unesp.br
   - ORCID: https://orcid.org/0000-0002-1870-6103
   - Lattes: https://lattes.cnpq.br/0026374599165487
 - Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
-  - E-mail: camila.gg.bueno@unesp.br
+  - e-mail: camila.gg.bueno@unesp.br
   - Lattes: http://lattes.cnpq.br/8692204806659405
 - Douglas Domingues Bueno (UNESP/FEIS)
-  - E-mail: douglas.bueno@unesp.br
+  - e-mail: douglas.bueno@unesp.br
   - Lattes: http://lattes.cnpq.br/3453163833110618
 
 ## How to cite
