@@ -68,10 +68,21 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 ## How to cite
 
-Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
+Cite Github repository:
+
+ - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
 This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
+
+@misc{Dias2023,
+  author = {Dias, L. L., Bueno, D. D. and Gonsalez-Bueno. C. G.},
+  title = {EMI-Experimental-Beam-Temperatura-Variations},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}}
+ }
 
 ## Funding
 São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2
