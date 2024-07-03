@@ -59,9 +59,15 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 ## Authors
 - Lorena Lopes Dias (UNESP/FEIS)
-  - lorena.dias@unesp.br
+  - E-mail: lorena.dias@unesp.br
+  - ORCID: https://orcid.org/0000-0002-1870-6103
+  - Lattes: https://lattes.cnpq.br/0026374599165487
 - Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
+  - E-mail: camila.gg.bueno@unesp.br
+  - Lattes: http://lattes.cnpq.br/8692204806659405
 - Douglas Domingues Bueno (UNESP/FEIS)
+  - E-mail: douglas.bueno@unesp.br
+  - Lattes: http://lattes.cnpq.br/3453163833110618
 
 ## How to cite
 
