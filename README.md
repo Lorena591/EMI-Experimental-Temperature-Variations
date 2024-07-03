@@ -12,7 +12,7 @@ Data are available for non-commercial research under the following terms: (i) th
 
 To learn more about the reserach group: https://bit.ly/3RSReVl
 
-The e
+The experimental signals measured are stored in foldes contained in the main branch, while the computer codes are present in the Computer-Codes branch.
 
 ## Experiment to collect EMI signals
 
