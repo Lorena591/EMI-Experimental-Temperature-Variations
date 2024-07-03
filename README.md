@@ -72,7 +72,7 @@ Cite Github repository:
 
  - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub Repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
-If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
+If you are using a LaTeX Editor, you can cite this repository using the BibTeX citation:
 
 ```
 @misc{GithubDias2023,
@@ -87,7 +87,7 @@ This dataset was used in this publication:
 
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
 
-If you are using a LaTeX Editor, you can cite this article using this BibTeX citation:
+If you are using a LaTeX Editor, you can cite this article using the BibTeX citation:
 
 ```
 @inproceedings{Dias2023,
