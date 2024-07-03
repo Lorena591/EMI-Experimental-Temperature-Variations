@@ -8,8 +8,8 @@
 Data are available for non-commercial research under the following terms: (i) the GMSINT Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSINT members; (iii) it is necessary to cite this benchmark.
 
 To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
-
-The experimental signals measured are stored in foldes contained in the main branch.
+0
+The experimental signals measured are stored in the folder Experimental_Signals_EMI (https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations/tree/main/Experimental_Signals_EMI) contained in the main branch.
 
 ## Experiment to collect EMI signals
 
