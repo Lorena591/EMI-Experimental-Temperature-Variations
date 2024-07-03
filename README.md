@@ -58,7 +58,8 @@ The signals were measured in a temperature range from 24°C to 70°C, which corr
 Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for pzt based structural health monitoring”. IEEE Transaction on Instrumentation and Measurement, Vol. 58, No. 10, pp. 3602–3608
 
 ## Authors
-- Lorena Lopes Dias (UNESP/FEIS) - lorena.dias@unesp.br
+- Lorena Lopes Dias (UNESP/FEIS)
+  - lorena.dias@unesp.br
 - Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
 - Douglas Domingues Bueno (UNESP/FEIS)
 
