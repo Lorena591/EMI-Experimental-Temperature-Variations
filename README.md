@@ -72,6 +72,8 @@ Cite Github repository:
 
  - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
+If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
+
 @misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
 author = {Lopes Dias, Lorena and Gianini Gonsalez-Bueno, Camila and Domingues Bueno, Douglas },
 title = {{EMI-Experimental-Beam-Temperature-Variations}},
