@@ -72,32 +72,20 @@ Cite Github repository:
 
  - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
-\documentclass{article}
-\pagestyle{empty}
-\usepackage{amsmath}
-HEADER_INJECTION_HERE
-\begin{document}
-FORMULA_PLACED_HERE
-\end{document}
 
 If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
 
-@article{TCA,
-author = {Samuel da Silva and Marcus Omori Yano and Camila G. Gonsalez-Bueno},
-title = {Transfer Component Analysis for Compensation of Temperature Effects on the Impedance-Based Structural Health Monitoring},
-journal = {Journal of Nondestructive Evaluation},
-volume = {40},
-pages = {64},
-year = {2021},
-doi = {https://doi.org/10.1007/s10921-021-00794-6},
-URL = {https://doi.org/10.1007/s10921-021-00794-6},
-}
-
+```
 @misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
-author = {Lopes Dias, Lorena and Gianini Gonsalez-Bueno, Camila and Domingues Bueno, Douglas },
+
+author = {Dias, Lorena Lopes and Gonsalez-Bueno, Camila Gianini and Bueno, Douglas Domingues},
+
 title = {{EMI-Experimental-Beam-Temperature-Variations}},
+
 url = {https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}
 }
+}
+```
 
 This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
