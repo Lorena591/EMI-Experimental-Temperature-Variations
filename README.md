@@ -72,6 +72,12 @@ Cite Github repository:
 
  - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
+@misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
+author = {Lopes Dias, Lorena and Gianini Gonsalez-Bueno, Camila and Domingues Bueno, Douglas },
+title = {{EMI-Experimental-Beam-Temperature-Variations}},
+url = {https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}
+}
+
 This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
 
