@@ -85,7 +85,7 @@ If you are using a LaTeX Editor, you can cite this repository using this BibTeX 
 
 This dataset was used in this publication:
 
-- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _ _in_ _ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
+- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
 
 If you are using a LaTeX Editor, you can cite this article using this BibTeX citation:
 
