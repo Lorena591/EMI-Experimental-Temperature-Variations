@@ -8,18 +8,18 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Lorena
-    family-names: Lopes Dias
+  - given-names: Lorena Lopes
+    family-names: Dias
     email: lorena.dias@unesp.br
     orcid: 'https://orcid.org/0000-0002-1870-6103'
     affiliation: UNESP
-  - given-names: 'Camila '
-    family-names: Gianini Gonsalez-Bueno
+  - given-names: 'Camila Gianini'
+    family-names: Gonsalez-Bueno
     email: camila.gg.bueno@unesp.br
     affiliation: UNESP
-  - given-names: 'Douglas '
+  - given-names: 'Douglas Domingues'
     email: douglas.bueno@unesp.br
-    family-names: Domingues Bueno
+    family-names: Bueno
     affiliation: UNESP
 identifiers:
   - type: url
