@@ -77,13 +77,18 @@ If you are using a LaTeX Editor, you can cite this repository using this BibTeX 
 
 ```
 @misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
-
 author = {Dias, Lorena Lopes and Gonsalez-Bueno, Camila Gianini and Bueno, Douglas Domingues},
-
 title = {{EMI-Experimental-Beam-Temperature-Variations}},
-
 url = {https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}
-}
+
+@misc{Dias2023,
+  author         = {Dias, L. L. and Gonsalez-Bueno. C. G. and Bueno, D. D.},
+  title          = {EMI-Experimental-Beam-Temperatura-Variations},
+  year           = {2023},
+  publisher      = {GitHub},
+  journal        = {GitHub repository},
+  howpublished   = {\url{https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}}
+ }
 }
 ```
 
