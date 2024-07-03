@@ -70,7 +70,7 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 Cite Github repository:
 
- - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
+ - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub Repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
 If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
 
@@ -84,13 +84,19 @@ If you are using a LaTeX Editor, you can cite this repository using this BibTeX 
 ```
 
 This dataset was used in this publication:
-- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
-- 
+
+- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _ _in_ _ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
+
+If you are using a LaTeX Editor, you can cite this article using this BibTeX citation:
+
 ```
-@misc{Dias2023,
-  author         = {Dias, L. L. and Bueno, D. D. and Gonsalez-Bueno. C. G.},
-  title          = {SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach},
+@inproceedings{Dias2023,
+  author         = {Dias, L. L. and Bueno, D. D. and Gonsalez-Bueno, C. G.},
+  title          = {{SHM} based on the Electromechanical Impedance Technique with Temperature Variations: theoretical and experimental approach},
+  booktitle      = {27th International Congress of Mechanical Engineering (COBEM)},
   year           = {2023},
+  adress         = {Florianópolis, SC, Brazil},
+  note           = {doi: 10.26678/ABCM.COBEM2023.COB2023-1251},
  }
 ```
 
