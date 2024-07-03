@@ -8,9 +8,9 @@ Computer codes were also developed involving the modeling of EMI and GW techniqu
 
 ## Data Access
 
-Data are available for non-commercial research under the following terms: (i) the GMSInt Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSInt members and SHM Lab UNESP/Ilha Solteira; (iii) it is necessary to cite this benchmark.
+Data are available for non-commercial research under the following terms: (i) the GMSINT Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSINT members; (iii) it is necessary to cite this benchmark.
 
-To learn more about the reserach group: https://bit.ly/3RSReVl
+To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
 
 The experimental signals measured are stored in foldes contained in the main branch, while the computer codes are present in the Computer-Codes branch.
 
