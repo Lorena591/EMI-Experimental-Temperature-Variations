@@ -72,6 +72,14 @@ Cite Github repository:
 
  - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
+\documentclass{article}
+\pagestyle{empty}
+\usepackage{amsmath}
+HEADER_INJECTION_HERE
+\begin{document}
+FORMULA_PLACED_HERE
+\end{document}
+
 If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
 
 @article{TCA,
