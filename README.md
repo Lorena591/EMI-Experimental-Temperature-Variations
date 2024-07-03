@@ -71,7 +71,7 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 ## How to cite
 
-This dataset was used in these publications:
+This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
 
 
