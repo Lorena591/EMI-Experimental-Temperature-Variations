@@ -70,39 +70,29 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 Cite Github repository:
 
- - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
-
+ - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
 
 If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
 
 ```
-@misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
-author = {Dias, Lorena Lopes and Gonsalez-Bueno, Camila Gianini and Bueno, Douglas Domingues},
-title = {{EMI-Experimental-Beam-Temperature-Variations}},
-url = {https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}
-
-@misc{Dias2023,
-  author         = {Dias, L. L. and Gonsalez-Bueno. C. G. and Bueno, D. D.},
-  title          = {EMI-Experimental-Beam-Temperatura-Variations},
-  year           = {2023},
-  publisher      = {GitHub},
-  journal        = {GitHub repository},
-  howpublished   = {\url{https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}}
- }
+@misc{GithubDias2023,
+	author         = {Dias, L. L. and Gonsalez-Bueno. C. G. and Bueno, D. D.},
+	title          = {EMI-Experimental-Beam-Temperatura-Variations},
+	year           = {2023},
+	note           = {Github Repository, \url{https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}}
 }
 ```
 
 This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
-
+- 
+```
 @misc{Dias2023,
-  author = {Dias, L. L., Bueno, D. D. and Gonsalez-Bueno. C. G.},
-  title = {EMI-Experimental-Beam-Temperatura-Variations},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations}}
+  author         = {Dias, L. L. and Bueno, D. D. and Gonsalez-Bueno. C. G.},
+  title          = {SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach},
+  year           = {2023},
  }
+```
 
 ## Funding
 São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2
