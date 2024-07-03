@@ -9,7 +9,7 @@ Data are available for non-commercial research under the following terms: (i) th
 
 To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
 
-The experimental signals measured are stored in the folder Experimental_Signals_EMI (https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations/tree/main/Experimental_Signals_EMI) contained in the main branch.
+The experimental signals measured are stored in the folder "Experimental_Signals_EMI" (https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations/tree/main/Experimental_Signals_EMI) contained in the main branch.
 
 ## Experiment to collect EMI signals
 
@@ -70,8 +70,6 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
 
 This dataset was used in this publication:
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
-
-
 
 ## Funding
 São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2
