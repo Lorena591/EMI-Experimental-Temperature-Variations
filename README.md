@@ -74,6 +74,17 @@ Cite Github repository:
 
 If you are using a LaTeX Editor, you can cite this repository using this BibTeX citation:
 
+@article{TCA,
+author = {Samuel da Silva and Marcus Omori Yano and Camila G. Gonsalez-Bueno},
+title = {Transfer Component Analysis for Compensation of Temperature Effects on the Impedance-Based Structural Health Monitoring},
+journal = {Journal of Nondestructive Evaluation},
+volume = {40},
+pages = {64},
+year = {2021},
+doi = {https://doi.org/10.1007/s10921-021-00794-6},
+URL = {https://doi.org/10.1007/s10921-021-00794-6},
+}
+
 @misc{Lopes_Dias_EMI-Experimental-Beam-Temperature-Variations,
 author = {Lopes Dias, Lorena and Gianini Gonsalez-Bueno, Camila and Domingues Bueno, Douglas },
 title = {{EMI-Experimental-Beam-Temperature-Variations}},
