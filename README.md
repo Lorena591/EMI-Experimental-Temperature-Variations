@@ -9,7 +9,7 @@ Data are available for non-commercial research under the following terms: (i) th
 
 To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
 
-The experimental signals measured are stored in the folder "Experimental_Signals_EMI" (https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations/tree/main/Experimental_Signals_EMI) contained in the main branch.
+To download the dataset (experimental signals) of the benchmark, please fill the form: https://forms.gle/ndbzPb6xkhp7ATH6A
 
 ## Experiment to collect EMI signals
 
