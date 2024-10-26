@@ -13,7 +13,7 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 ## 2. Experiment to collect EMI signals
 
-This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance (EMI) signals is outlined in three stages: first, for a beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
+This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance signals is outlined in three different stages: first, for a beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
 
 ### 2.1. Asymmetrical PZT
 
