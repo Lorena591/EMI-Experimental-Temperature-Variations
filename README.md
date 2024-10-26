@@ -77,7 +77,9 @@ Table 4 - Geometric properties of the 6063-T5 aluminum alloy beam cont.
 
 The connection arrangement between the piezoelectric transducers for generating longitudinal and flexural waves is shown in the figure below. This configuration is essential for the proper excitation of the different dynamics, allowing the PZTs to operate in a complementary manner and promote the appropriate stresses, be they axial forces (longitudinal dynamics) or bending moments (flexural dynamics). 
 
+<p align="center">
 ![Conexoes](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.jpg)
+</p>
 
 The electromechanical impedance signals were acquired over a temperature range of 24°C to 65°C, with increments of 10°C. The beam, inserted in a thermal chamber (see figure below), was excited by a frequency sweep sinusoidal signal (*chirp*) with an amplitude of ±1 V, covering a range from 1 Hz to 100 *k*Hz, with a step of 1 Hz. In order to guarantee the reliability of the results, 10 sets of data were collected for each temperature, exclusively during the heating of the beam. The sampling rate used was 250 *k*S/s.
 
@@ -102,7 +104,7 @@ Table 5 - Geometric properties of the free PSI-5H4E PZT.
 The experimental setup employed for data acquisition was identical to that used in Subsection 2.1, with the exception that, in this case, the object of study is a free piezoelectric transducer. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="800">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado2.jpg" width="800">
 </p>
 
 #### References
