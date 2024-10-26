@@ -17,7 +17,7 @@ This section presents the series of experimental tests conducted. The methodolog
 
 ### 2.1. Undamaged Beam with Asymmetrical PZT
 
-The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the digure below.
+The experiment consists of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the digure below.
 
 ![https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.jpg](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.JPG)
 
