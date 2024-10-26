@@ -20,7 +20,7 @@ This section presents the various experimental tests conducted. The methodology 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in Fig. 1
 
 <p align="center">
-Figure 1 - Aluminum beam with PZT installed on its surface.
+Figure 1 - Aluminum beam with one PZT installed on its surface.
 </p>
 
 ![https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.jpg](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.JPG)
