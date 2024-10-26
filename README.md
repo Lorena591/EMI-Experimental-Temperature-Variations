@@ -78,7 +78,7 @@ Table 4 - Geometric properties of the 6063-T5 aluminum alloy beam cont.
 The connection arrangement between the piezoelectric transducers for generating longitudinal and flexural waves is shown in the figure below. This configuration is essential for the proper excitation of the different dynamics, allowing the PZTs to operate in a complementary manner and promote the appropriate stresses, be they axial forces (longitudinal dynamics) or bending moments (flexural dynamics). 
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.jpg" width="600">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.jpg" width="500">
 </p>
 
 The electromechanical impedance signals were acquired over a temperature range of 24°C to 65°C, with increments of 10°C. The beam, inserted in a thermal chamber (see figure below), was excited by a frequency sweep sinusoidal signal (*chirp*) with an amplitude of ±1 V, covering a range from 1 Hz to 100 *k*Hz, with a step of 1 Hz. In order to guarantee the reliability of the results, 10 sets of data were collected for each temperature, exclusively during the heating of the beam. The sampling rate used was 250 *k*S/s.
