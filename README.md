@@ -3,6 +3,9 @@
 
  <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from *Piezo Systems*$$^\circledR$$ attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration, since the nature of the waves - longitudinal or flexural - generated in a structure by piezoelectric transducers depends directly on their physical arrangement. Symmetrical PZTs generate longitudinal and flexural waves separately, while asymmetrical PZTs produce both types of waves simultaneously. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
 
+!([VigaPZT.JPG](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacopla.pdf?raw=true "Title"))
+
+
 ## 1. Data Access
 
 Data are available for non-commercial research under the following terms: (i) the GMSINT Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSINT members; (iii) it is necessary to cite this benchmark.
@@ -81,8 +84,6 @@ The electromechanical impedance signals were acquired over a temperature range o
 ### 2.3. Free PZT
 
 The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in the figure below. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
-
-!([VigaPZT.JPG](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacopla.pdf?raw=true "Title"))
 
 Table 5 - Geometric properties of the free PSI-5H4E PZT.
 | Property | Symbol | Value |                                                                 
