@@ -140,7 +140,7 @@ Figure 8 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 #### References
-Baptista, F.G. and Filho, J.V., 2009, ‘A new impedance measurement system for pzt based structural health monitoring’, *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, doi: 10.1109/TIM.2009.2018693.
+Baptista, F.G. and Filho, J.V., 2009,`A new impedance measurement system for pzt based structural health monitoring', *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, doi: 10.1109/TIM.2009.2018693.
 
 ## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
@@ -181,7 +181,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
 @inproceedings{Dias2023,
   author         = {Dias, L. L. and Bueno, D. D. and Gonsalez-Bueno, C. G.},
   title          = {{SHM} based on the Electromechanical Impedance Technique with Temperature Variations: theoretical and experimental approach},
-  booktitle      = {27th International Congress of Mechanical Engineering ({COBEM})},
+  booktitle      = {27th International Congress of Mechanical Engineering (COBEM)},
   year           = {2023},
   adress         = {Florianópolis, SC, Brazil},
   note           = {doi: 10.26678/ABCM.COBEM2023.COB2023-1251},
