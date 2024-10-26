@@ -13,7 +13,7 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 ## 2. Experiment to collect EMI signals
 
-This section presents the various experimental tests conducted. The methodology for measuring the electromechanical impedance (EMI) signals is outlined for three distinct cases. In the first one, EMI signals from an undamaged beam with a PZT coupled in an asymmetric configuration are measured. The second case investigates an undamaged beam with symmetrical PZTs. In the third and final case, an uncoupled PZT is examined. All analyses were performed considering variations in ambient temperature.
+This section presents the various experimental tests conducted. The methodology for measuring the electromechanical impedance signals is outlined for three distinct cases. In the first one, EMI signals from an undamaged beam with a PZT coupled in an asymmetric configuration are measured. The second case investigates an undamaged beam with symmetrical PZTs. In the third and final case, an uncoupled PZT is examined. All analyses were performed considering variations in ambient temperature.
 
 ### 2.1. Undamaged Beam with Asymmetrical PZT
 
