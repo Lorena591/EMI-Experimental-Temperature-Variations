@@ -129,10 +129,10 @@ Table 5 - Geometric properties of the free PSI-5H4E PZT.
 |Width |$$b_p$$ |12 mm|
 |Thickness |$$h_p$$ |0.2667 mm|
 
-The experimental setup employed for data acquisition was identical to that used in Subsection 2.1, with the exception that, in this case, the object of study is a free piezoelectric transducer, as depicted in Fig. 8. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
+The experimental setup employed for data acquisition was identical to that used in Subsection 2.1 (see Fig. 2), with the exception that, in this case, the object of study is a free piezoelectric transducer, as depicted in Fig. 8. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
 
 <p align="center">
-Figure 8 - PZT positioned on a foam layer tnside the thermal chamber.
+Figure 8 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 <p align="center">
