@@ -1,7 +1,7 @@
 
 # EMI-Experimental-Temperature-Variations
 
- <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
+ <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration, since the nature of the waves - longitudinal or flexural - generated in a structure by piezoelectric transducers depends directly on their physical arrangement. Symmetrical PZTs generate longitudinal and flexural waves separately, while asymmetrical PZTs produce both types of waves simultaneously. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
 
 ## Data Access
 
@@ -13,7 +13,9 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 ## Experiment to collect EMI signals
 
-### 
+This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance (EMI) signals is outlined in three stages: first, for a beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
+
+### Asymmetrical PZT
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from Piezo Systems attached to its surface in the asymmetrical configuration, as shown in the digure below.
 
