@@ -140,7 +140,7 @@ Figure 8 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 #### References
-Baptista, F.G. and Filho, J.V., 2009. ‘A new impedance measurement system for pzt based structural health monitoring’, *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, doi: 10.1109/TIM.2009.2018693.
+Baptista, F.G. and Filho, J.V., 2009, ‘A new impedance measurement system for pzt based structural health monitoring’, *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, doi: 10.1109/TIM.2009.2018693.
 
 ## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
@@ -158,7 +158,7 @@ Baptista, F.G. and Filho, J.V., 2009. ‘A new impedance measurement system for 
 
 Cite Github repository:
 
- - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, GitHub Repository, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations
+ - Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2023), EMI-Experimental-Beam-Temperatura-Variations, *GitHub Repository*, https://github.com/Lorena591/EMI-Experimental-Beam-Temperature-Variations.
 
 If you are using a LaTeX Editor, you can cite this repository using the BibTeX citation:
 
@@ -171,9 +171,9 @@ If you are using a LaTeX Editor, you can cite this repository using the BibTeX c
 }
 ```
 
-The dataset, pertaining to the EMI collected from a beam with an asymmetrically attached PZT on its surface, was utilized in this publication:
+The dataset, pertaining to the EMI collected from a beam with an asymmetrically PZT, was utilized in this publication:
 
-- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
+- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251.
 
 If you are using a LaTeX Editor, you can cite this article using the BibTeX citation:
 
@@ -181,7 +181,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
 @inproceedings{Dias2023,
   author         = {Dias, L. L. and Bueno, D. D. and Gonsalez-Bueno, C. G.},
   title          = {{SHM} based on the Electromechanical Impedance Technique with Temperature Variations: theoretical and experimental approach},
-  booktitle      = {27th International Congress of Mechanical Engineering (COBEM)},
+  booktitle      = {27th International Congress of Mechanical Engineering ({COBEM})},
   year           = {2023},
   adress         = {Florianópolis, SC, Brazil},
   note           = {doi: 10.26678/ABCM.COBEM2023.COB2023-1251},
