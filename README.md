@@ -84,6 +84,8 @@ The experimental tests consisted of collecting electromechanical impedance signa
 
 ![FreePZT](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg){: width="10%"}
 
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="600">
+
 Table 5 - Geometric properties of the free PSI-5H4E PZT.
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
