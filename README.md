@@ -88,7 +88,7 @@ The electromechanical impedance signals were acquired over a temperature range o
 
 The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in the figure below. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
 
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="400">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="700">
 
 Table 5 - Geometric properties of the free PSI-5H4E PZT.
 | Property | Symbol | Value |                                                                 
@@ -99,7 +99,7 @@ Table 5 - Geometric properties of the free PSI-5H4E PZT.
 
 The experimental setup employed for data acquisition was identical to that used in Subsection 2.1, with the exception that, in this case, the object of study is a free piezoelectric transducer. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
 
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado2.jpg" width="500">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado2.jpg" width="700">
 
 ![PZTDesacoplado](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado2.jpg)
 
