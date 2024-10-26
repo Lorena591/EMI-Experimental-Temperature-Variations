@@ -17,7 +17,7 @@ This section presents the various experimental tests conducted. The methodology 
 
 ### 2.1. Undamaged Beam with Asymmetrical PZT
 
-The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the Fig. 1
+The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in Fig. 1
 
 <p align="center">
 Figure 1 - Aluminum beam with PZT installed on its surface.
@@ -33,7 +33,7 @@ Figure 2 - Experimental setup employed to acquire EMI signals.
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/Setup.JPG)
 
-The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, as depicted in the Fig. 3(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in the Fig3(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
+The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, as depicted in Fig. 3(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in Fig. 3(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
 
 <p align="center">
 Figure 3 - (a) Thermal chamber and (b) beam positioned on a foam layer inside it.
@@ -67,7 +67,11 @@ The signals were measured in a temperature range from 24°C to 70°C, which corr
 
 ### 2.2. Undamaged Beam with Symmetrical PZTs
 
-To obtain the electromechanical impedance signals corresponding to the different structural dynamics (longitudinal and flexural), two PSI-5H4E piezoelectric transducers were symmetrically coupled to the 6063-T5 aluminum alloy beam, as shown in the figure below. The experimental setup employed for data acquisition was identical to that described in Subsection 2.1, with the exception that the object of study in this case involves a beam with two coupled piezoelectric transducers, rather than a single asymmetric PZT. The geometric properties of the PZTs and the beam are presented in Tabs. 3 and 4, respectively. As the same piezoelectric ceramics and beam utilized in the previous analysis (detailed in Subsection 2.1 and outlined in Tabs. 1 and 2) were employed here, their material properties have been omitted to avoid redundancy.
+To obtain the electromechanical impedance signals corresponding to the different structural dynamics (longitudinal and flexural), two PSI-5H4E piezoelectric transducers were symmetrically coupled to the 6063-T5 aluminum alloy beam, as shown in Fig. 4. The experimental setup employed for data acquisition was identical to that described in Subsection 2.1 (see Fig. 2), with the exception that the object of study in this case involves a beam with two coupled piezoelectric transducers, rather than a single asymmetric PZT. The geometric properties of the PZTs and the beam are presented in Tabs. 3 and 4, respectively. As the same piezoelectric ceramics and beam utilized in the previous analysis (detailed in Subsection 2.1 and outlined in Tabs. 1 and 2) were employed here, their material properties have been omitted to avoid redundancy.
+
+<p align="center">
+Figure 4 - (a) Aluminum beam and (b) PZTs symmetrically coupled to it.
+</p>
 
 ![VigaSimetrica](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaSimetrica.jpg)
 
@@ -87,7 +91,11 @@ Table 4 - Geometric properties of the 6063-T5 aluminum alloy beam coupled with s
 |Width | $$b_b$$ | 12 mm |
 |Thickness | $$h_b$$ | 3 mm |
 
-The connection arrangement between the piezoelectric transducers for generating longitudinal and flexural waves is shown in the figure below. This configuration is essential for the proper excitation of the different dynamics, allowing the PZTs to operate in a complementary manner and promote the appropriate stresses, be they axial forces (longitudinal dynamics) or bending moments (flexural dynamics). 
+The connection arrangement between the piezoelectric transducers for generating longitudinal and flexural waves is shown in Fig. 5. This configuration is essential for the proper excitation of the different dynamics, allowing the PZTs to operate in a complementary manner and promote the appropriate stresses, be they axial forces (longitudinal dynamics) or bending moments (flexural dynamics). 
+
+<p align="center">
+Figure 5 - Diagram of the connections between the PZTs for the excitation of (a) longitudinal and (b) flexural dynamics, by applying an electrical voltage $$V$$. The arrows on the PZTs indicate their polarization direction.
+</p>
 
 <p align="center">
 <img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.jpg" width="500">
