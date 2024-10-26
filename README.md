@@ -13,7 +13,9 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 ## Experiment to collect EMI signals
 
-The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from Piezo Systems attached to its surface, as shown in the digure below.
+### 
+
+The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from Piezo Systems attached to its surface in the asymmetrical configuration, as shown in the digure below.
 
 ![https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.jpg](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.JPG)
 
