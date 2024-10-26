@@ -3,7 +3,7 @@
 
  <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration, since the nature of the waves - longitudinal or flexural - generated in a structure by piezoelectric transducers depends directly on their physical arrangement. Symmetrical PZTs generate longitudinal and flexural waves separately, while asymmetrical PZTs produce both types of waves simultaneously. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
 
-## Data Access
+## 1. Data Access
 
 Data are available for non-commercial research under the following terms: (i) the GMSINT Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSINT members; (iii) it is necessary to cite this benchmark.
 
@@ -11,11 +11,11 @@ To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
 
 To download the dataset (experimental signals) of the benchmark, please fill the form: https://bit.ly/3VINLtA
 
-## Experiment to collect EMI signals
+## 2. Experiment to collect EMI signals
 
 This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance (EMI) signals is outlined in three stages: first, for a beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
 
-### Asymmetrical PZT
+### 2.1. Asymmetrical PZT
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from Piezo Systems attached to its surface in the asymmetrical configuration, as shown in the digure below.
 
@@ -55,10 +55,14 @@ Table 2 - Geometric and material properties of the 6063-T5 aluminum alloy beam a
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of ±1 V in a frequency range of 1 Hz to 100 kHz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 kS/s was employed.
 
+### 2.2. Symmetrical PZT
+
+To obtain the electromechanical impedance signals corresponding to the different structural dynamics (longitudinal and flexural), two PSI-5H4E piezoelectric transducers were symmetrically coupled to the 6063-T5 aluminum alloy beam, as shown in the figure below. The experimental setup used for data acquisition was identical to that one used in the S, except that in this case the object of study is a beam with two piezoelectric transducers coupled. The geometric and material properties of the beam and the PZTs, at a temperature of 24°C, are shown in Tabs. \ref{tab:BeamSim} and \ref{tab:PZTSim}, respectively. However, since the same piezoelectric ceramics were used as in the analysis of the free PZT, detailed in Section \ref{chapter:ExpPZTDes} (see Tab. \ref{tab:PZTDes}), the material properties of this device have been omitted from Tab. \ref{tab:PZTDes}. \ref{tab:PZTSim} in order to avoid redundancy.
+
 #### References
 Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for pzt based structural health monitoring”. IEEE Transaction on Instrumentation and Measurement, Vol. 58, No. 10, pp. 3602–3608
 
-## Authors
+## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
   - e-mail: lorena.dias@unesp.br
   - ORCID: https://orcid.org/0000-0002-1870-6103
@@ -70,7 +74,7 @@ Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for 
   - e-mail: douglas.bueno@unesp.br
   - Lattes: http://lattes.cnpq.br/3453163833110618
 
-## How to cite
+## 4. How to cite
 
 Cite Github repository:
 
@@ -104,7 +108,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
  }
 ```
 
-## Funding
+## 5. Funding
 São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2
 
 ![fapesp](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/fapesp.png)
