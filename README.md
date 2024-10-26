@@ -15,7 +15,7 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance signals is outlined in three different stages: first, for an undamaged beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
 
-### 2.1. Undamaged Beam with Asymmetrical PZTs
+### 2.1. Undamaged Beam with Asymmetrical PZT
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the figure below.
 
@@ -53,7 +53,7 @@ Table 2 - Geometric and material properties of the 6063-T5 aluminum alloy beam a
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of ±1 V in a frequency range of 1 Hz to 100 *k*Hz, with a step size of 1 Hz. The signals were gauged only during heating. Thirty signals were collected for each temperature and a sampling rate of 250 *k*S/s was employed.
 
-### 2.2. Undamaged Beam with Symmetrical PZT
+### 2.2. Undamaged Beam with Symmetrical PZTs
 
 To obtain the electromechanical impedance signals corresponding to the different structural dynamics (longitudinal and flexural), two PSI-5H4E piezoelectric transducers were symmetrically coupled to the 6063-T5 aluminum alloy beam, as shown in the figure below. The experimental setup used for data acquisition was identical to that one used in the Subsection 2.1, except that in this case the object of study is a beam with two piezoelectric transducers coupled instead of only one (asymmetric PZT). The geometric properties of the PZTs and the beam are shown in Tabs. 3 and 4, respectively. As the same piezoelectric ceramics and beam used in the previous analysis (detailed in Subsection 2.1 and outlined in Tabs. 1 and 2) were applied here, the material properties of this device and the beam have been excluded from Tabs. 3 and 4 to avoid redundancy.
 
