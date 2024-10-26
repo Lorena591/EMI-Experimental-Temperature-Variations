@@ -33,7 +33,7 @@ Figure 2 - Experimental setup employed to acquire EMI signals.
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/Setup.JPG)
 
-The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, as depicted in Fig. 3(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in Fig. 3(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
+The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, as despicted in Fig. 3(a). The beam was positioned on a foam layer to replicate a free-free boundary condition, as shown in Fig. 3(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
 
 <p align="center">
 Figure 3 - (a) Thermal chamber and (b) beam positioned on a foam layer inside it.
