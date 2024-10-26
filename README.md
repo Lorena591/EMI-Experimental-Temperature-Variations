@@ -15,7 +15,7 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 This section presents the series of experimental tests conducted. The methodology for measuring the electromechanical impedance signals is outlined in three different stages: first, for an undamaged beam coupled with a PZT in an asymmetric configuration; then, in a symmetric configuration, with two piezoelectric elements attached to opposite sides of the beam; and finally, for EMI signals of an uncoupled PZT.
 
-### 2.1. Undamaged Beam with Asymmetrical PZT
+### 2.1. Undamaged Beam with Asymmetrical PZTs
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the figure below.
 
