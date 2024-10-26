@@ -59,7 +59,7 @@ To obtain the electromechanical impedance signals corresponding to the different
 
 ![VigaSimetrica](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaSimetrica.jpg)
 
-Table 3 - Geometric properties of symmetrical PSI-5H4E PZTs.
+Table 3 - Geometric properties of the symmetrical PSI-5H4E PZTs.
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
 |Length | $$L_p$$ | 12 mm|                     
