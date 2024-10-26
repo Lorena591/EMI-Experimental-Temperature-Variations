@@ -82,7 +82,7 @@ The electromechanical impedance signals were acquired over a temperature range o
 
 The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in the figure below. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
 
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="80">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="200">
 
 Table 5 - Geometric properties of the free PSI-5H4E PZT.
 | Property | Symbol | Value |                                                                 
