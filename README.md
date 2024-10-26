@@ -1,7 +1,7 @@
 
 # EMI-Experimental-Temperature-Variations
 
- <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from *Piezo Systems* attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration, since the nature of the waves - longitudinal or flexural - generated in a structure by piezoelectric transducers depends directly on their physical arrangement. Symmetrical PZTs generate longitudinal and flexural waves separately, while asymmetrical PZTs produce both types of waves simultaneously. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
+ <div align="justify">EMI-Experimental-Temperature-Variations contains a set of data and information relating to researches involving Structural Integrity Monitoring (SHM) via Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from *Piezo Systems*$$^\circledR$$ attached to its surface. This benchmark presents the experimental methods used for the EMI technique. The experiments consist of collecting EMI signals for undamaged structural conditions under temperature variations considering the use of PZTs in symmetrical and asymmetrical configuration, since the nature of the waves - longitudinal or flexural - generated in a structure by piezoelectric transducers depends directly on their physical arrangement. Symmetrical PZTs generate longitudinal and flexural waves separately, while asymmetrical PZTs produce both types of waves simultaneously. In addition, EMI signals were also measured for the PZT in the free condition, i.e. decoupled from the structure. The data set is valuable for validating SHM algorithms at different temperatures.
 
 ## 1. Data Access
 
@@ -17,7 +17,7 @@ This section presents the series of experimental tests conducted. The methodolog
 
 ### 2.1. Asymmetrical PZT
 
-The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems* attached to its surface in the asymmetrical configuration, as shown in the digure below.
+The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ attached to its surface in the asymmetrical configuration, as shown in the digure below.
 
 ![https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.jpg](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaPZT.JPG)
 
@@ -25,7 +25,7 @@ The figure below shows a schematic of the experimental setup utilized. It was us
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/Setup.JPG)
 
-The aluminum beam was placed inside a thermal chamber from the brand Thermotron S-Series to simulate ambient temperature variations, showed in the figure below(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in the figure below(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the tables below.
+The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, showed in the figure below(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in the figure below(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the tables below.
 
 ![camara_viga](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/camara_viga.JPG)
 
@@ -83,7 +83,7 @@ The electromechanical impedance signals were acquired over a temperature range o
 The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in the figure below. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
 
 
-In order to simulate variations in ambient temperature, the piezoelectric transducer was positioned inside a thermal chamber, model \textit{Thermotron$^\circledR$ S-Series}, shown in Fig. \ref{fig:PZTDes2}(a). Since the tests of the PZT coupled to the structure were carried out in the free-free configuration, this same boundary condition was replicated for the tests of the uncoupled PZT. To do this, the device was placed on a layer of foam, as shown in Fig. \ref{fig:PZTDes2}(b). It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the air currents circulating inside it, caused disturbances to the piezoelectric transducer which compromised the EMI and caused negative interference to the signals, such as the high presence of noise.
+The experimental setup employed for data acquisition was identical to that used in Subsection 2.1, with the exception that, in this case, the object of study is a free piezoelectric transducer. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
 
 #### References
 Baptista, F.G. and Filho, J.V., 2009. “A new impedance measurement system for pzt based structural health monitoring”. IEEE Transaction on Instrumentation and Measurement, Vol. 58, No. 10, pp. 3602–3608
@@ -117,7 +117,7 @@ If you are using a LaTeX Editor, you can cite this repository using the BibTeX c
 }
 ```
 
-This dataset was used in this publication:
+The dataset, pertaining to the EMI collected from a beam with an asymmetrically attached PZT on its surface, was utilized in this publication:
 
 - Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), `SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251
 
@@ -135,7 +135,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
 ```
 
 ## 5. Funding
-São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2
+São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2.
 
 ![fapesp](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/fapesp.png)
 
