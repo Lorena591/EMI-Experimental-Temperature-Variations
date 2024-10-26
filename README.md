@@ -25,7 +25,7 @@ The following figure shows a schematic of the experimental setup utilized. It wa
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/Setup.JPG)
 
-The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, shown in the figure below(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in the figure below(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
+The aluminum beam was placed inside a thermal chamber from the brand *Thermotron*$$^\circledR$$ *S-Series* to simulate ambient temperature variations, as depicted in the figure below(a). This beam was positioned on a foam layer to simulated a free-free boundary condition, as shown in the figure below(b). Geometric and material properties of the piezoelectric transducer and the beam at 24°C are presented in the Tabs. 1 and 2, respectively.
 
 ![camara_viga](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/camara_viga.JPG)
 
