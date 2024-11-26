@@ -118,7 +118,7 @@ Figure 7 - CNC lathe used for machining structural damage.
 </p>
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="700">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/CNC.jpg" width="700">
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ Figure 8 - Beam containing two PZT transducers and symmetric damage.
 </p>
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="700">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaDano.jpg" width="700">
 </p>
 
 The electromechanical impedance signals were collected over a temperature range of 24°C to 65°C, with increments of 20°C. A *chirp* signal with amplitude of ±1 V was applied, in the range of 1 Hz to 100 *k*Hz, with a step of 1 Hz. 10 sets of data were collected for each temperature, exclusively during the heating of the beam. The sampling rate used was 250 *k*S/s.
