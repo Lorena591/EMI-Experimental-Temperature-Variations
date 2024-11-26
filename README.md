@@ -75,7 +75,7 @@ Figure 4 - (a) Aluminum beam and (b) PZTs symmetrically coupled to it.
 
 ![VigaSimetrica](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaSimetrica.jpg)
 
-Table 3 - Geometric properties of the symmetrical PSI-5H4E PZTs.
+Table 3 - Geometric properties of the symmetrically coupled PSI-5H4E PZTs.
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |                                                                                                   
 |Length | $$L_p$$ | 12 mm|                     
@@ -84,7 +84,7 @@ Table 3 - Geometric properties of the symmetrical PSI-5H4E PZTs.
 |Distance from the first PZT’s end to the origin| $$x_1$$ |81 mm|
 |Distance from the second PZT’s end to the origin| $$x_2$$| $$x_1+L_p = 93 mm$$   |
 
-Table 4 - Geometric properties of the 6063-T5 aluminum alloy beam coupled with symmetrical PZTs.
+Table 4 - Geometric properties of the 6063-T5 aluminum alloy beam coupled with symmetric PZTs.
 | Property | Symbol | Value |                                                                 
 | -- | -- | -- |           
 |Length | $$L_b$$| 499 mm |
