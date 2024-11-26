@@ -109,13 +109,34 @@ Figure 6 - Beam placed on a foam inside the thermal chamber.
 
 ![VigaSimetrica2](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaSimetrica2.jpg)
 
+### 2.3. Damaged Beam with Symmetrical PZTs
 
-### 2.3. Free PZT
-
-The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in Fig. 7. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
+In order to obtain the electromechanical impedance signals of the damaged beam, the experimental configuration of previous tests, represented in Fig. 2, was replicated. The same system considered in the previous study, which covers different dynamics, was investigated with the aim of examining the effects of structural damage in different vibration contexts. The characteristics of the beam and the PZTs are detailed in the Tabs. 2 and 3, respectively, at a temperature of 24°C. The damage was introduced symmetrically into the structure using an Emco Emcotronic CNC (Numerically Controlled Computer) lathe, model F1, shown in Fig. 7. The damage is 25 mm in length, beam width equivalent and depth reductions corresponding to 3%, 6% and 15% of the original thickness of the structure, with half of this reduction distributed on each face of the beam. The damage was positioned 89 mm from the PZT, located at coordinate $$x_D$$ = 182 mm, as shown in Fig. 8.
 
 <p align="center">
-Figure 7 - Piezoelectric transducer PSI-5H4E.
+Figure 7 - CNC lathe used for machining structural damage.
+</p>
+
+<p align="center">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="700">
+</p>
+
+<p align="center">
+Figure 8 - Beam containing two PZT transducers and symmetric damage.
+</p>
+
+<p align="center">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/PZTDesacoplado.jpg" width="700">
+</p>
+
+The electromechanical impedance signals were collected over a temperature range of 24°C to 65°C, with increments of 20°C. A *chirp* signal with amplitude of ±1 V was applied, in the range of 1 Hz to 100 *k*Hz, with a step of 1 Hz. 10 sets of data were collected for each temperature, exclusively during the heating of the beam. The sampling rate used was 250 *k*S/s.
+
+### 2.4. Free PZT
+
+The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in Fig. 9. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
+
+<p align="center">
+Figure 9 - Piezoelectric transducer PSI-5H4E.
 </p>
 
 <p align="center">
@@ -129,10 +150,10 @@ Table 5 - Geometric properties of the free PSI-5H4E PZT.
 |Width |$$b_p$$ |12 mm|
 |Thickness |$$h_p$$ |0.2667 mm|
 
-The experimental setup employed for data acquisition was identical to that used in Subsection 2.1 (see Fig. 2), with the exception that, in this case, the object of study is a free piezoelectric transducer, as depicted in Fig. 8. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
+The experimental setup employed for data acquisition was identical to that used in Subsection 2.1 (see Fig. 2), with the exception that, in this case, the object of study is a free piezoelectric transducer, as depicted in Fig. 10. Electromechanical impedance signals were collected at temperatures of 24°C, 45°C and 70°C. This was achieved using a *chirp* sinusoidal sweep with an amplitude of ±1 V, spanning a frequency range from 1 Hz to 100 *k*Hz, in increments of 1 Hz. The sampling rate was 250 *k*S/s, and 10 sets of signals were obtained for each temperature. The measurements were taken exclusively during the heating process of the piezoelectric element. It should be noted that the high fragility of the PZT, combined with the vibrations of the thermal chamber itself and, above all, the circulating air currents within, caused disturbances to the piezoelectric transducer, which compromised the EMI and led to negative interference in the signals, such as increased noise.
 
 <p align="center">
-Figure 8 - PZT positioned on a foam layer inside the thermal chamber.
+Figure 10 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 <p align="center">
