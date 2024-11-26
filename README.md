@@ -117,8 +117,9 @@ In order to obtain the electromechanical impedance signals of the damaged beam, 
 Figure 7 - CNC lathe used for machining structural damage.
 </p>
 
-![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/CNC.jpg)
-
+<p align="center">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/CNC.jpg" width="700">
+</p>
 
 <p align="center">
 Figure 8 - Beam containing two PZT transducers and symmetric damage.
