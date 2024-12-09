@@ -122,7 +122,7 @@ Figure 7 - CNC lathe used for machining structural damage.
 </p>
 
 <p align="center">
-Figure 8 - Beam-like structure containing two PZTs transducers and symmetric damage.
+Figure 8 - Beam-like structure with two PZTs transducers and a symmetric damage.
 </p>
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaDano.jpg)
