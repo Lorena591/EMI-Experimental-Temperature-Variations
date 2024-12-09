@@ -128,7 +128,7 @@ Figure 8 - Beam-like structure with two PZTs transducers and a symmetric damage.
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaDano.jpg)
 
 
-The electromechanical impedance signals were collected over a temperature range of 24°C to 65°C, with increments of 20°C. A *chirp* signal with amplitude of ±1 V was applied, in the range of 1 Hz to 100 *k*Hz, with a step of 1 Hz. 10 sets of data were collected for each temperature, with a sampling rate of 250 *k*S/s. Measurements were conducted after gradually increasing the temperature and maintaining a steady state for 30 minutes at each one.
+The electromechanical impedance signals were collected over a temperature range of 24°C to 65°C, with increments of 20°C. A sinusoidal frequency sweep (*chirp*) with an amplitude of ± 1 V in a frequency range from 1 Hz to 100 *k*Hz, with increments of 1 Hz, was used to excite the structure through the PZTs. 10 sets of data were collected for each temperature, with a sampling rate of 250 *k*S/s. Measurements were conducted after gradually increasing the temperature and maintaining a steady state for 30 minutes at each one.
 
 ### 2.4. Free PZT
 
