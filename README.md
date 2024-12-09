@@ -17,7 +17,7 @@ This section presents the various experimental tests conducted. The methodology 
 
 ### 2.1. Undamaged Beam with Asymmetrical PZT
 
-The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer from *Piezo Systems*$$^\circledR$$ asymmetrically placed on the structure in relation to its longitudinal direction, as shown in Fig. 1
+The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, asymmetrically placed on the structure in relation to its longitudinal direction, as shown in Fig. 1
 
 <p align="center">
 Figure 1 - Aluminum beam with one PZT installed on its surface.
