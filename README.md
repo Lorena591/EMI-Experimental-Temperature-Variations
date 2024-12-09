@@ -160,7 +160,7 @@ Figure 10 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 #### References
-Baptista, F.G. and Filho, J.V., 2009, 'A new impedance measurement system for pzt based structural health monitoring', *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, doi: 10.1109/TIM.2009.2018693.
+Baptista, F.G. and Filho, J.V., 2009, 'A new impedance measurement system for pzt based structural health monitoring', *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, DOI: 10.1109/TIM.2009.2018693.
 
 ## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
@@ -193,7 +193,7 @@ If you are using a LaTeX Editor, you can cite this repository using the BibTeX c
 
 The dataset, pertaining to the EMI collected from a beam with an asymmetrically coupled PZT, was utilized in this publication:
 
-- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), 'SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), doi: 10.26678/ABCM.COBEM2023.COB2023-1251.
+- Dias, L. L., Bueno, D. D. & Gonsalez-Bueno, C. G. (2023), 'SHM based on the Electromechanical Impedance Technique with Temperature Variations: Theoretical and Experimental Approach', _in_ 27th International Congress of Mechanical Engineering (COBEM), DOI: 10.26678/ABCM.COBEM2023.COB2023-1251.
 
 If you are using a LaTeX Editor, you can cite this article using the BibTeX citation:
 
@@ -204,7 +204,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
   booktitle      = {27th International Congress of Mechanical Engineering (COBEM)},
   year           = {2023},
   adress         = {Florianópolis, SC, Brazil},
-  note           = {doi: 10.26678/ABCM.COBEM2023.COB2023-1251},
+  note           = {DOI: 10.26678/ABCM.COBEM2023.COB2023-1251},
  }
 ```
 
