@@ -132,7 +132,7 @@ The electromechanical impedance signals were collected over a temperature range 
 
 ### 2.4. Free PZT
 
-The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in Fig. 9. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrical PZT), guaranteeing repeatability of the test conditions.
+The experimental tests consisted of collecting electromechanical impedance signals from the PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, shown in Fig. 9. The geometric characteristics of this transducer are detailed in Tab. 5. These properties are identical to those used in the experimental tests of the coupled system (beam and asymmetrically coupled PZT), guaranteeing repeatability of the test conditions.
 
 <p align="center">
 Figure 9 - Piezoelectric transducer PSI-5H4E.
