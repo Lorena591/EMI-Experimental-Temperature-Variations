@@ -15,7 +15,7 @@ To download the dataset (experimental signals) of the benchmark, please fill the
 
 This section presents the various experimental tests conducted. The methodology for measuring electromechanical impedance signals is outlined for four different cases. In the first one, EMI signals from an undamaged beam with a PZT coupled in an asymmetric configuration are measured. The second and third cases investigate, respectively, an undamaged and damaged beam with symmetrically coupled PZTs. In the fourth and final case, an uncoupled PZT is examined. All analyses were performed considering variations in ambient temperature.
 
-### 2.1. Undamaged Beam with Asymmetrical PZT
+### 2.1. Undamaged Beam with Asymmetrically Coupled PZT
 
 The experiment consisted of collecting electromechanical impedance signals from a 6063-T5 aluminum alloy beam containing a PSI-5H4E piezoelectric transducer, from *Piezo Systems*$$^\circledR$$, asymmetrically placed on the structure in relation to its longitudinal direction, as shown in Fig. 1
 
@@ -65,7 +65,7 @@ Table 2 - Geometric and material properties of the 6063-T5 aluminum alloy beam a
 
 The signals were measured in a temperature range from 24°C to 70°C, which correspond to a large portion of the structures in operation. It was utilized a step of 5°C for the non-damage condition. In order to excite the structure, it was applied a sinusoidal frequency sweep with an amplitude of ±1 V in a frequency range of 1 Hz to 100 *k*Hz, with a step size of 1 Hz. The measurements were performed increasing the temperature and after 30 min of achieving the steady state for each one. Thirty signals were collected for each temperature and a sampling rate of 250 *k*S/s was employed.
 
-### 2.2. Undamaged Beam with Symmetrical PZTs
+### 2.2. Undamaged Beam with Symmetrically Coupled PZTs
 
 To obtain the electromechanical impedance signals corresponding to the different structural dynamics (longitudinal and flexural), two PSI-5H4E piezoelectric transducers were symmetrically coupled to either side of the 6063-T5 aluminum alloy beam, as shown in Fig. 4. The experimental setup employed for data acquisition was identical to that described in Subsection 2.1 (see Fig. 2), with the exception that the object of study in this case involves a beam with two coupled piezoelectric transducers, rather than a single asymmetrically coupled PZT as investigated in the former analysis. The geometric properties of the PZTs and the beam are presented in Tabs. 3 and 4, respectively. As the same piezoelectric ceramics and beam utilized in the previous analysis (detailed in Subsection 2.1 and outlined in Tabs. 1 and 2) were employed here, their material properties have been omitted to avoid redundancy.
 
@@ -109,7 +109,7 @@ Figure 6 - Beam placed on a foam inside the thermal chamber.
 
 ![VigaSimetrica2](https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/VigaSimetrica2.jpg)
 
-### 2.3. Damaged Beam with Symmetrical PZTs
+### 2.3. Damaged Beam with Symmetrically Coupled PZTs
 
 In order to obtain the electromechanical impedance signals of the damaged beam, the experimental configuration of former tests, represented in Fig. 2, was replicated. The same system considered in the previous study, which covers different dynamics, was investigated with the aim of examining the effects of structural damage in different vibration contexts. The characteristics of the PZTs and the beam are detailed in the Tabs. 3 and 4, respectively, at a temperature of 24°C. A local reduction in the cross-sectional area of the beam was implemented to represent the damage. This modification was introduced symmetrically using the Emco Emcotronic CNC (Numerically Controlled Computer) lathe, model F1, shown in Fig. 7. The damage, measuring 25 mm in length and extending across the full width of the beam, features depth reductions corresponding to 3% and 6% of the original thickness of the structure, with half of this reduction distributed on each face of the beam. The damage was positioned 89 mm from the PZT, located at coordinate $$x_D$$ = 182 mm, as shown in Fig. 8.
 
