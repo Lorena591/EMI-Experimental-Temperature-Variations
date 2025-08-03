@@ -8,7 +8,7 @@ The experiments consisted of collecting electromechanical impedance signals for 
 
 Data are available for non-commercial research under the following terms: (i) the GMSINT Laboratory and UNESP/Ilha Solteira should be recognized as the source of the data; (ii) publications should include references pertinent to the publications of GMSINT members; (iii) it is necessary to cite this benchmark.
 
-To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl
+To learn more about the reserach group GMSINT: https://bit.ly/3RSReVl or https://www.youtube.com/@GMsint
 
 To download the dataset (experimental signals) of the benchmark, please fill the form: https://bit.ly/3VINLtA
 
