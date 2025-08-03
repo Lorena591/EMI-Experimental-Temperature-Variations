@@ -163,7 +163,7 @@ Figure 10 - PZT positioned on a foam layer inside the thermal chamber.
 </p>
 
 #### References
-Baptista, F.G. and Vieira Filho, J., 2009, 'A new impedance measurement system for pzt based structural health monitoring', *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, DOI: 10.1109/TIM.2009.2018693.
+Baptista, F.G. and Vieira Filho, J., 2009, 'A new impedance measurement system for PZT based structural health monitoring', *IEEE Transaction on Instrumentation and Measurement*, **58**(10), 3602–3608, DOI: 10.1109/TIM.2009.2018693.
 
 ## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
