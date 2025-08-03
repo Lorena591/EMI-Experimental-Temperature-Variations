@@ -114,18 +114,18 @@ Figure 6 - Beam placed on a foam inside the thermal chamber.
 In order to obtain the electromechanical impedance signals of the damaged beam, the experimental configuration of former tests, represented in Fig. 2, was replicated. The same system considered in the previous study, which covers different dynamics, was investigated with the aim of examining the effects of structural damage in different vibration contexts. The characteristics of the PZTs and the beam are detailed in the Tabs. 3 and 4, respectively, at a temperature of 24°C. Two damage configurations $-$ symmetric and asymmetric cross-sectional area reductions $-$ were introduced to the beam independently to each other, i.e., each damage type was applied to a separate beam specimen, ensuring that only one form of damage was present per structure. Both damage types measured 25 mm in length, were positioned 94 mm from the PZTs, and extended across the full width of the beam. The damages were machined using a Emco Emcotronic Computer Numerically Controlled (CNC) lathe, model F1. For the symmetric damage cases, two identical thickness reductions were introduced on the upper and lower surfaces of the beam, resulting in total cross-sectional area reductions of 3%, 6%, and 15% relative to the beam's original thickness, as shown in Fig. 8. Conversely, the asymmetric damage involved material removal from only one surface of the beam, with cross-sectional area reductions of 5%, 10%, and 20%, as shown in Fig. 8. 
 
 <p align="center">
-Figure 7 - CNC lathe used for machining structural damage.
+Figure 7 - (a) Emco F1 CNC lathe used for machining the structural damage, and (b) aluminum beam during the damage machining process.
 </p>
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/CNC.jpg" width="700">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/CNC.png" width="700">
 </p>
 
 <p align="center">
 Figure 8 - Beam-like structure with symmetrically coupled PZTs and two types of damage: symmetric and asymmetric.
 </p>
 
-![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaDano.jpg)
+![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaDano.png)
 
 
 The electromechanical impedance signals were collected over a temperature range of 24 °C to 65 °C, in increments of 20 °C. A sinusoidal frequency sweep (*chirp*) with an amplitude of ± 1 V, spanning from 1 Hz to 100 *k*Hz in 1 Hz steps, was employed to excite the structure via the PZTs. For each temperature level, ten datasets were acquired using a sampling rate of 250 *k*S/s. Measurements were taken after gradually raising the temperature and maintaining thermal steady state for 30 minutes at each one.
