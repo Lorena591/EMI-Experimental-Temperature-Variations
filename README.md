@@ -1,8 +1,9 @@
 
 # EMI-Experimental-Temperature-Variations
 
- <div align="justify">EMI-Experimental-Temperature-Variations comprises datasets and information pertinent to research in Structural Health Monitoring (SHM) via the Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark details the experimental procedures employed for data acquisition.\\
-	 
+ <div align="justify">EMI-Experimental-Temperature-Variations comprises datasets and information pertinent to research in Structural Health Monitoring (SHM) via the Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark details the experimental procedures employed for data acquisition.
+
+  
 	 The experiments consisted of collecting electromechanical impedance signals for undamaged structural conditions, at different temperatures, using piezoelectric transducers attached to the structure in symmetrical and asymmetrical configurations. In addition, EMI signals for a beam with symmetrical and asymmetrical corrosion-type damage were obtained exclusively with PZTs symmetrically coupled to the structure, at different temperatures. Finally, EMI measurements were performed for a free piezoelectric transducer, i.e., uncoupled from any structure, under different thermal conditions. This dataset is valuable for validating EMI-based SHM algorithms at different temperatures.
 
 ## 1. Data Access
