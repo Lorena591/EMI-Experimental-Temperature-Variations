@@ -230,7 +230,7 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
 ```
 
 ## 5. Funding
-São Paulo Research Foundation (FAPESP), Grant numbers 2021/12008-2 and 2022/10174-5.
+São Paulo Research Foundation (FAPESP), Grant number 2021/12008-2.
 
 ![fapesp](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/fapesp.png)
 
