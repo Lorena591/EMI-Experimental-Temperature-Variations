@@ -1,8 +1,7 @@
 
 # EMI-Experimental-Temperature-Variations
 
- <div align="justify">EMI-Experimental-Temperature-Variations comprises datasets and information pertinent to research in Structural Health Monitoring (SHM) via the Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark details the experimental procedures employed for data acquisition. 
-	 The experiments consisted of collecting electromechanical impedance signals for undamaged structural conditions, at different temperatures, using piezoelectric transducers attached to the structure in symmetrical and asymmetrical configurations. In addition, EMI signals for a beam with symmetrical and asymmetrical corrosion-type damage were obtained exclusively with PZTs symmetrically coupled to the structure, at different temperatures. Finally, EMI signal measurements were also carried out for a piezoelectric transducer in a free condition, i.e., uncoupled from any structure, under different thermal conditions. This dataset is valuable for validating EMI-based SHM algorithms at different temperatures.
+ <div align="justify">EMI-Experimental-Temperature-Variations comprises datasets and information pertinent to research in Structural Health Monitoring (SHM) via the Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark details the experimental procedures employed for data acquisition. The experiments consisted of collecting electromechanical impedance signals for undamaged structural conditions, at different temperatures, using piezoelectric transducers attached to the structure in symmetrical and asymmetrical configurations. In addition, EMI signals for a beam with symmetrical and asymmetrical corrosion-type damage were obtained exclusively with PZTs symmetrically coupled to the structure, at different temperatures. Finally, EMI measurements were performed for a free piezoelectric transducer, i.e., uncoupled from any structure, under different thermal conditions. This dataset is valuable for validating EMI-based SHM algorithms at different temperatures.
 
 ## 1. Data Access
 
@@ -112,7 +111,7 @@ Figure 6 - Beam placed on a foam inside the thermal chamber.
 
 ### 2.3. Damaged Beam with Symmetrically Coupled PZTs
 
-In order to obtain the electromechanical impedance signals of the damaged beam, the experimental configuration of former tests, represented in Fig. 2, was replicated. The same system considered in the previous study, which covers different dynamics, was investigated with the aim of examining the effects of structural damage in different vibration contexts. The characteristics of the PZTs and the beam are detailed in the Tabs. 3 and 4, respectively, at a temperature of 24°C. A local reduction in the cross-sectional area of the beam was implemented to represent the damage. This modification was introduced symmetrically using the Emco Emcotronic CNC (Numerically Controlled Computer) lathe, model F1, shown in Fig. 7. The damage, measuring 25 mm in length and extending across the full width of the beam, features depth reductions corresponding to 3% and 6% of the original thickness of the structure, with half of this reduction distributed on each face of the beam. The damage was positioned 89 mm from the PZT, located at coordinate $$x_D$$ = 182 mm, as shown in Fig. 8.
+In order to obtain the electromechanical impedance signals of the damaged beam, the experimental configuration of former tests, represented in Fig. 2, was replicated. The same system considered in the previous study, which covers different dynamics, was investigated with the aim of examining the effects of structural damage in different vibration contexts. The characteristics of the PZTs and the beam are detailed in the Tabs. 3 and 4, respectively, at a temperature of 24°C. Two damage configurations $-$ symmetric and asymmetric cross-sectional area reductions $-$ were introduced to the beam independently to each other, i.e., each damage type was applied to a separate beam specimen, ensuring that only one form of damage was present per structure. Both damage types measured 25 mm in length, were positioned 94 mm from the PZTs, and extended across the full width of the beam. The damages were machined using a Emco Emcotronic Computer Numerically Controlled (CNC) lathe, model F1. For the symmetric damage cases, two identical thickness reductions were introduced on the upper and lower surfaces of the beam, resulting in total cross-sectional area reductions of 3%, 6%, and 15% relative to the beam's original thickness, as shown in Fig. 8. Conversely, the asymmetric damage involved material removal from only one surface of the beam, with cross-sectional area reductions of 5%, 10%, and 20%, as shown in Fig. 8. 
 
 <p align="center">
 Figure 7 - CNC lathe used for machining structural damage.
@@ -123,13 +122,15 @@ Figure 7 - CNC lathe used for machining structural damage.
 </p>
 
 <p align="center">
-Figure 8 - Beam-like structure with two PZTs transducers and a symmetric damage.
+Figure 8 - Beam-like structure with symmetrically coupled PZTs and two types of damage: symmetric and asymmetric.
 </p>
 
 ![setup](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/VigaDano.jpg)
 
 
-The electromechanical impedance signals were collected over a temperature range of 24°C to 65°C, with increments of 20°C. A sinusoidal frequency sweep (*chirp*) with an amplitude of ± 1 V in a frequency range from 1 Hz to 100 *k*Hz, with increments of 1 Hz, was used to excite the structure through the PZTs. 10 sets of data were collected for each temperature, with a sampling rate of 250 *k*S/s. Measurements were conducted after gradually increasing the temperature and maintaining a steady state for 30 minutes at each one.
+The electromechanical impedance signals were collected over a temperature range of 24 °C to 65 °C, in increments of 20 °C. A sinusoidal frequency sweep (*chirp*) with an amplitude of ± 1 V, spanning from 1 Hz to 100 *k*Hz in 1 Hz steps, was employed to excite the structure via the PZTs. For each temperature level, ten datasets were acquired using a sampling rate of 250 *k*S/s. Measurements were taken after gradually raising the temperature and maintaining thermal steady state for 30 minutes at each one.
+
+It is worth noting that temperature variation was applied exclusively to the configuration with symmetrical damage. In contrast, the asymmetrical damage condition was evaluated solely at 24 °C. All other experimental parameters remained consistent across both damage scenarios.
 
 ### 2.4. Free PZT
 
@@ -166,14 +167,16 @@ Baptista, F.G. and Filho, J.V., 2009, 'A new impedance measurement system for pz
 ## 3. Authors
 - Lorena Lopes Dias (UNESP/FEIS)
   - e-mail: lorena.dias@unesp.br
-  - ORCID: https://orcid.org/0000-0002-1870-6103
   - Lattes: https://lattes.cnpq.br/0026374599165487
+  - ORCID: https://orcid.org/0000-0002-1870-6103
 - Camila Gianini Gonsalez-Bueno (UNESP/FEIS)
   - e-mail: camila.gg.bueno@unesp.br
   - Lattes: http://lattes.cnpq.br/8692204806659405
+  - ORCID: https://orcid.org/0000-0003-0488-6198
 - Douglas Domingues Bueno (UNESP/FEIS)
   - e-mail: douglas.bueno@unesp.br
   - Lattes: http://lattes.cnpq.br/3453163833110618
+  - ORCID: https://orcid.org/0000-0002-1783-0524
 
 ## 4. How to cite
 
@@ -205,12 +208,28 @@ If you are using a LaTeX Editor, you can cite this article using the BibTeX cita
   booktitle      = {27th International Congress of Mechanical Engineering (COBEM)},
   year           = {2023},
   adress         = {Florianópolis, SC, Brazil},
-  note           = {DOI: 10.26678/ABCM.COBEM2023.COB2023-1251},
+  note           = {DOI: 10.26678/ABCM.COBEM2023.COB2023-1251}
+ }
+```
+
+On the other hand, the dataset comprising EMI measurements from the beam in both undamaged and symmetrically damaged conditions was employed in the following conference paper presentation:
+
+- Dias, L. L., Gonsalez-Bueno, C. G. & Bueno, D. D. (2025), 'Electromechanical Impedance in Periodic Structures: Analytical Modeling and Experimental Results', _in_ International Conference on Structural Engineering Dynamics (ICEDyn).
+
+If you are using a LaTeX Editor, you can cite this article using the BibTeX citation:
+
+```
+@inproceedings{Dias2025,
+  author         = {Dias, L. L. and Gonsalez-Bueno, C. G. and Bueno, D. D.},
+  title          = {Electromechanical Impedance in Periodic Structures: Analytical Modeling and Experimental Results},
+  booktitle      = {International Conference on Structural Engineering Dynamics (ICEDyn)},
+  year           = {2025},
+  adress         = {Lisboa, Portugal}
  }
 ```
 
 ## 5. Funding
-São Paulo Research Foundation (FAPESP), Grant Number 2021/12008-2.
+São Paulo Research Foundation (FAPESP), Grant numbers 2021/12008-2 and 2022/10174-5.
 
 ![fapesp](https://github.com/Lorena591/Pesquisa-Doutorado-Direto/blob/main/fapesp.png)
 
