@@ -98,7 +98,7 @@ Figure 5 - Diagram of the connections between the PZTs for the excitation of (a)
 </p>
 
 <p align="center">
-<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.JPG" width="500">
+<img src="https://github.com/Lorena591/EMI-Experimental-Temperature-Variations/blob/main/Conexoes.jpg" width="500">
 </p>
 
 The electromechanical impedance signals were acquired over a temperature range of 24°C to 65°C, with increments of 10°C. The beam, inserted in a thermal chamber (Fig. 6), was excited by a frequency sweep sinusoidal signal (*chirp*) with an amplitude of ±1 V, covering a range from 1 Hz to 100 *k*Hz, with a step of 1 Hz. In order to guarantee the reliability of the results, 10 sets of data were collected for each temperature, exclusively during the heating of the beam and after 30 min of achieving the steady state for each temperature. The sampling rate used was 250 *k*S/s.
