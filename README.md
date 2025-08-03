@@ -1,4 +1,8 @@
-
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+	
 # EMI-Experimental-Temperature-Variations
 
  <div align="justify">EMI-Experimental-Temperature-Variations comprises datasets and information pertinent to research in Structural Health Monitoring (SHM) via the Electromechanical Impedance (EMI) technique. The studies were carried out on a 6063-T5 aluminum alloy beam with PSI-5H4E piezoelectrics transducers (PTZs) from Piezo Systems attached to its surface. This benchmark details the experimental procedures employed for data acquisition. <br><br>
